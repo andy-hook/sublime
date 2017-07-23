@@ -1,13 +1,13 @@
 {
-	"color_scheme": "Packages/Monokai - Spacegray/Monokai - Spacegray.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai - Spacegray (SL).tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Spacegray.sublime-theme",
 	"open_files_in_new_window": false,
 	"spacegray_fileicons": true,
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": true,
-  "tab_size": 2,
+	"word_wrap": true
 }

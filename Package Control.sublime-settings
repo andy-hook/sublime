@@ -5,8 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"Handlebars",
+		"LESS",
 		"Monokai - Spacegray",
 		"Package Control",
+		"SCSS",
+		"SublimeLinter",
 		"Theme - Spacegray"
 	]
 }
