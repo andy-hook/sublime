@@ -1,2 +1,2 @@
-# sublime-settings
+# sublime
 Sublime Text 3 configuration
