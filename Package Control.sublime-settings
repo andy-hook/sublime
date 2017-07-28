@@ -11,6 +11,7 @@
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-php",
 		"Theme - Spacegray"
