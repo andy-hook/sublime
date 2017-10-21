@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Handlebars",
+		"JSX",
 		"LESS",
 		"Monokai - Spacegray",
 		"Package Control",
